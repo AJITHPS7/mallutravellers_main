@@ -1,0 +1,20 @@
+SMAP
+ProdcutType_jsp.java
+JSP
+*S JSP
+*F
++ 0 ProdcutType.jsp
+Admin/ProdcutType.jsp
+*L
+5:45
+6:46,9
+7,10:55
+17,26:66
+42,21:92
+62,6:113
+67,2:119
+69,3:121,3
+72,3:130
+75,2:134
+76,5:136
+*E

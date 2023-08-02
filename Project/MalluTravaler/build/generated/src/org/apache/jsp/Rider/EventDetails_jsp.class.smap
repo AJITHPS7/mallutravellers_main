@@ -1,0 +1,20 @@
+SMAP
+EventDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 EventDetails.jsp
+Rider/EventDetails.jsp
+*L
+5,4:45
+8:48,9
+9,3:57
+13,21:61
+33,25:82
+57,13:107
+69,2:120
+71,10:122,3
+81:152
+82,2:154
+83,9:156
+*E
